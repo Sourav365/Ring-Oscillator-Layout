@@ -25,6 +25,8 @@
 ## 3. Layout of Ring Oscillator
   ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/e44d0c9a-6fb7-45ef-a357-a39fe200caf8)
 
+  <img width="900" alt="image" src="https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/5a109cf2-d78a-480b-9be0-9e57d52f6de8">
+
   ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/2b13bbe2-b4a5-4ef6-b315-9895a31db146)
 
   
