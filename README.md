@@ -55,6 +55,8 @@
   **Results**
   * Time Period(T) of Square-Wave Output of Ring Oscillator (with Parasitics) = (tpLH + tpHL) / 2 = (1.59nSec + 1.59nSec) / 2 = 1.59nsec
   * Propagation delay of Each Inverter (with Parasitics)= 1.59nSec / (2*21) = 37.8 pSec
+  * Spikes during transition comes, due to the internal capacitors of gates. Cap don't allows sudden change of voltage. When i/p High, o/p Low. When i/p goes from H -> L, o/p 1st goes to low (due to C), then increases.
+  * Intermidiate cap of each inverter causes variation of signal for a particular logic level.
 
 
 
