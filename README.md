@@ -21,4 +21,16 @@
 
   ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/2b13bbe2-b4a5-4ef6-b315-9895a31db146)
 
-  
+## 4. DRC (Design Rule Check)
+
+  ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/985add90-ac86-4a0a-a06e-0ce94795ab8b)
+
+  * Minimum Metal (M-1 to M-6) and Poly density error is coming only.
+  * It can be neglected by putting some dummy transistors.
+
+## 5. LVS (Layout Versus Schematic) Check
+  ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/98e40dcc-c240-4f4a-8a65-1dc1ef3c19e0)
+
+  * No LVS and ERC error.
+    
+## 6. 
