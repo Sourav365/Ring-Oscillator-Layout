@@ -1,10 +1,10 @@
 # Ring-Oscillator-Layout
 
-## 1.	Schematic of Ring Oscillator with 21 inverters
+## 1.	Schematic of Ring Oscillator with 21-Inverters
   ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/8431ecf3-b02d-4fb6-84eb-8fdb9094013f)
 
 
-## 2.	Simulation of the above ring oscillator schematic 
+## 2.	Simulation of the above Ring Oscillator Schematic 
   ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/4dc5d2c0-ab3e-4e39-a699-6b5de7472d0e)
 
   ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/6e4e2d0a-b123-4e2f-8c4e-fe1e44e4cad8)
@@ -35,3 +35,23 @@
   * No LVS and ERC error.
     
 ## 6. PEX (Parasitic Extraction)
+  Resistor (R), Capacitor (C), Coupling Capacitor(CC) of all the nets are given:
+  
+  ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/6731c195-c117-4438-933e-22d956eb4ede)
+
+  Schematic after Parasitic Extraction
+  
+  ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/1f8959f0-e3f7-4c6f-8fb4-9a32c36b886a)
+
+  ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/6e878d7f-a8c0-40e2-adc2-f9fc40d05ec3)
+
+  ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/593d0875-e6ed-423f-ab63-91ed5a33d9d3)
+  
+## 7. Post Layout Simulation
+  ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/4e91a6c9-7ee4-44b6-935e-c6b673ce8f39)
+
+  ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/39ca951c-47aa-48ca-aae1-251cfd8c19cd)
+
+  **Results**
+  * sdf
+  * 
