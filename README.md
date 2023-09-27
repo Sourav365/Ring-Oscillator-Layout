@@ -34,4 +34,4 @@
 
   * No LVS and ERC error.
     
-## 6. 
+## 6. PEX (Parasitic Extraction)
