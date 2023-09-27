@@ -11,8 +11,8 @@
 
 
   **Results**
-  * Propagation delay of Ring Oscillator (without Parasitics) = (tpLH + tpHL) / 2 = (1.11nSec + 1.11nSec) / 2 = 1.11nsec
-  * Propagation delay of Each Inverter (without Parasitics)   = 1.11nSec / (2*21) = 26.4 pSec
+  * Time Period(T) of Square-Wave Output of Ring Oscillator (without Parasitics) = (tpLH + tpHL) / 2 = (1.11nSec + 1.11nSec) / 2 = 1.11nsec
+  * Propagation delay of Each Inverter (without Parasitics) = 1.11nSec / (2*21) = 26.4 pSec
 
 ## 3. Layout of Ring Oscillator
   ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/e44d0c9a-6fb7-45ef-a357-a39fe200caf8)
@@ -53,7 +53,7 @@
   ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/39ca951c-47aa-48ca-aae1-251cfd8c19cd)
 
   **Results**
-  * Propagation delay of Ring Oscillator layout (with Parasitics) = (tpLH + tpHL) / 2 = (1.59nSec + 1.59nSec) / 2 = 1.59nsec
+  * Time Period(T) of Square-Wave Output of Ring Oscillator (with Parasitics) = (tpLH + tpHL) / 2 = (1.59nSec + 1.59nSec) / 2 = 1.59nsec
   * Propagation delay of Each Inverter (with Parasitics)= 1.59nSec / (2*21) = 37.8 pSec
 
 
