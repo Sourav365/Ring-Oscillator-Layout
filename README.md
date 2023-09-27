@@ -9,12 +9,22 @@
 
 
 ## 1.	Schematic of Ring Oscillator with 21 inverters
-  ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/e2e2ea28-94fc-4f8b-8b94-3ac09cba8e34)
+  ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/8431ecf3-b02d-4fb6-84eb-8fdb9094013f)
+
 
 ## 2.	Simulation of the above ring oscillator schematic 
-  ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/7a93145e-2f70-44f5-975c-97ff23892c98)
+  ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/4dc5d2c0-ab3e-4e39-a699-6b5de7472d0e)
+
+  ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/6e4e2d0a-b123-4e2f-8c4e-fe1e44e4cad8)
+
 
   **Results**
   * Propagation delay of each inverter = 1.218 nSec / (2*21) = 29 pSec
+  * Actually it should be calculated using the avg of tpHL and tpLH.
 
 ## 3. Layout of Ring Oscillator
+  ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/e44d0c9a-6fb7-45ef-a357-a39fe200caf8)
+
+  ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/2b13bbe2-b4a5-4ef6-b315-9895a31db146)
+
+  
