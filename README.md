@@ -1,5 +1,7 @@
 # Ring-Oscillator-Layout
 
+* For inverter, (W/L)PMOS = 2* (W/L)NMOS
+ 
 ## 1.	Schematic of Ring Oscillator with 21-Inverters
   ![image](https://github.com/Sourav365/Ring-Oscillator-Layout/assets/49667585/8431ecf3-b02d-4fb6-84eb-8fdb9094013f)
 
